@@ -4,7 +4,7 @@ This is an app that allows the user to enter in sides of a triangle and see what
 ```
 Clone repository and open the triangle-js.html file.
 ```
-[View site here](http://htmlpreview.github.io/?https://github.com/alexkaufman06/dapper-triangle-js/blob/master/dapper-triangle-js/triangle-js.html)
+[View site here](http://htmlpreview.github.io/?https://github.com/alexkaufman06/dapper-triangle-js/blob/master/index.html)
 ### Bug Reports:
 ```
 If the user enters in an exclamation point before the number, the result will be incorrect.
