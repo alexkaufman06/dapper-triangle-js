@@ -1,5 +1,5 @@
 # Triangle
-This is an app that allows the user to enter in sides of a triangle and see what kind of triangle they created (if any!).
+This is a triangle app built with JavaScript, HTML, CSS, and TDD.
 ## Setup Instructions:
 ```
 Clone repository and open the triangle-js.html file.
@@ -10,5 +10,5 @@ Clone repository and open the triangle-js.html file.
 If the user enters in an exclamation point before the number, the result will be incorrect.
 ```
 ### Author:
-Alex Kaufman
+Grace Mekarski & Alex Kaufman
 #### MIT License
