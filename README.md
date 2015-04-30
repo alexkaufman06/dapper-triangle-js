@@ -1,5 +1,5 @@
 # Triangle
-This is a triangle app built with JavaScript, HTML, CSS, and TDD.
+This is a triangle app that allows the user to enter in sides of a triangle and log what kind of triangle it is, if it is a triangle at all.  It was built at Epicodus in one day utilizing JavaScript, HTML, CSS, and TDD.
 ## Setup Instructions:
 ```
 Clone repository and open the triangle-js.html file.
